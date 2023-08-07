@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+Social Media Markerter. More [about me](/about/).
