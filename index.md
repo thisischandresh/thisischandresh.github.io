@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Social Media Markerter. More [about me](/about/).
+Probably lying down on the floor. [Or else](/about/).
