@@ -6,10 +6,10 @@ permalink: /about/
 
 Hi, this is Chandresh. I live in Mumbai.
 
-I'm at my happiest around plants, cats, and the sea. My daily life is spent sitting idle on the terrace, reading, colouring, and watching F1. I'm currently working at [Shardeum](shardeum.org).
+I'm at my happiest around plants, cats, and the sea. My daily life is spent sitting idle on the terrace, reading, colouring, and watching F1. I'm currently working at [Shardeum](https://shardeum.org).
 
 ## Contact
-  - DM me on [Twitter](x.com/thisischandresh) or [Warpcast](warpcast.com/chandresh)
+  - DM me on [Twitter](https://x.com/thisischandresh) or [Warpcast](https://warpcast.com/chandresh)
   - Send an onchain message on [thisischandresh.eth](https://etherscan.io/address/thisischandresh.eth)
 
 ## Past Work
