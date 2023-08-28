@@ -10,7 +10,7 @@ I'm at my happiest around plants, cats, and the sea. My daily life is spent sitt
 
 ## Contact
   - DM me on [Twitter](https://x.com/thisischandresh) or [Warpcast](https://warpcast.com/chandresh)
-  - Send an onchain message on [thisischandresh.eth](https://etherscan.io/address/thisischandresh.eth)
+  - Send an onchain message on [thechandresh.eth](https://etherscan.io/address/thechandresh.eth)
 
 ## Past Work
 I deliver my best work in small teams and semi-automonous environment.
