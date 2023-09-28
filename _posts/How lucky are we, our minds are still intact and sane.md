@@ -1,4 +1,14 @@
-#How lucky are we, our minds are still intact and sane
+---
+
+layout: post
+title:	How lucky are we, our minds are still intact and sane
+date:	2023-09-28
+author:	Chandresh
+description:
+ogimage: opengraphimage.jpeg
+
+---
+
 If you have a mental disorder. If you have a physical disorder. If you have had a bad day. If you are tired and lost and frustated and angry. If you are anxious and confused. If you are sick and everything sucks.
 
 If you think reading this right now will assure you ‘it’s going to be okay,’ I hope you know it’s going to be bad again too, then good, then worse, and there’s no knowing how it ends.
