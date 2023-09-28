@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Hello World Again!
+title:	Hello World!
 date:	2020-01-01
 author:	Lorem Ipsum
 description: The first post on this website.
