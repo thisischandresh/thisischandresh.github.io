@@ -5,7 +5,7 @@ title:	How lucky are we, our minds are still intact and sane
 date:	2023-09-28
 author:	Chandresh
 description:
-ogimage: opengraphimage.jpeg
+ogimage: intact-sane-mind.png
 
 ---
 
