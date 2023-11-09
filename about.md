@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+ogimage: chandresh.png
 ---
 
 Hi, this is Chandresh. I live in Mumbai.
