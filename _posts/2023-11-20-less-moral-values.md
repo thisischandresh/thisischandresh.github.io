@@ -1,4 +1,14 @@
-#Life is easier with less moral values
+---
+
+layout: post
+title:	Life is easier with less moral values
+date:	2023-11-20
+author:	Chandresh
+description:
+ogimage: less-moral-values.png
+
+---
+
 ## Phase 1: Existence
 
 As a child, we are all told to write a journal, by our friends, parents, a therapist, the internet, books.
