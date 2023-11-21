@@ -9,7 +9,7 @@ ogimage: less-moral-values.png
 
 ---
 
-## Phase 1: Existence
+## Existence
 
 As a child, we are all told to write a journal, by our friends, parents, a therapist, the internet, books.
 
@@ -17,7 +17,7 @@ So I wrote. I couldn’t write a journal because it felt tedious to think about 
 
 I only read what I’d written while writing and I wrote with pen on paper, so there were no edits, no changing words or hiding mistakes. How the world worked before personal computers. I had to be honest instead of grammatically or politically correct, an added incentive being no one was watching, no one was reading. It was just me and the stories.
 
-## Phase 2: Erasure
+## Erasure
 
 Like most people, my thoughts were faster than I could write and it got scary real quick. My feelings and ideas could not be contained and they overflowed, so the only way to get a handle on it was to stop. To stop writing, to stop thinking, to stop and lie down.
 
@@ -29,7 +29,7 @@ To make sure I’m not held back by any ideas and nostalgia, I burned the essays
 
 I had to be light and free and live the truth of present instead of everything that has been.
 
-## Phase 3: Moral values
+## Moral values
 
 It is overwhelming to write still, to think about a lived life and to remember my past selves who seem like different people. In reality, they are all me, and yet, there is subtle feeling of existing over someone else, taking a life for a life. I lived and they, the past selves, died.
 
