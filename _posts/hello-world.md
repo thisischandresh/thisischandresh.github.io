@@ -1,57 +1,47 @@
 ---
 layout: post
-title:	Hello World!
+title:	Life is easeier with less moral values
 date:	2020-01-01
-author:	Lorem Ipsum
-description: The first post on this website.
+author:	Chandresh
+description: The second post on this website.
 ogimage: opengraphimage.jpeg
 
 ---
 
-Lorem markdownum cum dixit exspectare sanguine favillae Boreas in libandas unda
-ast lacrimas, est [monte membra](http://quem.io/semina) mediumque vetus! Volat
-fuit inmitis illo, agunt aras laudatissima ferit certamina famuli somnusque an
-facie convicia pharetra; deteriorque tanti.
+## Phase 1: Existence
 
-## Serpentis unus est haesisse iam magno maris
+As a child, we are all told to write a journal, by our friends, parents, a therapist, the internet, books.
 
-Phaethontis tangi, Nereides aures. **Parvum fecit**: Non induruit scelus: Tmolo
-herbae, **est cantare numerant**, per. Malum aliis, iste num Pellaeus, mollit
-[rescindere nervi](http://de-spem.com/cum.aspx), umerique profuga raptusque
-maritum stagna. Erubui ad dominus ignibus merito **tria reppulit omnia** enim
-flentes illius: terra. Collemque Aeolon contendite barba, in Iovi adhaesit eadem
-talisque petebamus venter: manes inde sanguine, et.
+So I wrote. I couldn’t write a journal because it felt tedious to think about a day and write in a certain pattern of how events occured so I wrote essays, poems, dreams, list of cafes, list of cuisines, list of books and movies, letters, and stories.
 
-Venerat custos vocabant mi et longo poplite Achillis regem aures communicat
-sedebat [mille](http://perque-ad.com/). Haut pugnando Aurora populique grates
-simul, sub columque iubar. Caput postquam contigit remos coeamus, eadem
-Nonacrina [Iove](http://ea-oculi.org/proceres.html): nullo dira levatus aevi
-Thetis **ultima ecce ceu**.
+I only read what I’d written while writing and I wrote with pen on paper, so there were no edits, no changing words or hiding mistakes. How the world worked before personal computers. I had to be honest instead of grammatically or politically correct, an added incentive being no one was watching, no one was reading. It was just me and the stories.
 
-1. Lucem merces inmeritam Romanique orbis extemplo ira
-2. Quas vocat vidit clipeum
-3. Undis Iphide exercetque taurum ut quondam leoni
-4. Tantum litora matris Enipeus
+## Phase 2: Erasure
 
-## Decimo illud
+Like most people, my thoughts were faster than I could write and it got scary real quick. My feelings and ideas could not be contained and they overflowed, so the only way to get a handle on it was to stop. To stop writing, to stop thinking, to stop and lie down.
 
-At iunxisse [multi](http://times.com/) Dryope, advocat omnes, iam et aequorei
-[lentus](http://tamenrecepit.io/fistula-trachine). Auguste despectus ultoresque
-dum fumantia Peleu temptata tacitaque ostendens tamen alii maturior datura
-audiat venti notas. Quae ad Dictaei conligit, fata dum Hecaten quem, dat.
-Colebat armat nutrimen veniensque premens inmurmurat, [oculos volentem
-in](http://loquicurvantem.net/penetralibus-sine) tamen: fuga ora differt
-criminibusque? Cui tollensque Lacedaemoniumque turbida Scylaceaque ducitur
-posse; in telum crus, suas seu tempore tacto semel et semina, lydia?
+Then the time came to read, to listen, to sit back and watch the big wide world.
 
-Nostrasque meruique nunc perdidimus: ter ungues thalamoque nullus. Quid teneri,
-mole Telethusa non; res **dixit**, est nullos iungere; an velis postquam, *et*.
-Non herbae: sub Stygias morsibus.
+The more books and more authors I read, more places I travelled, more time I spent outdoors, the more people I met, the more insignicant all my written stories seemed. The world is full of experiences I cannot contain in words and there is little time to choose to either write a story or live one. And so the writing went to the bin, intentionally.
 
-1. Vacuae fassoque vidit
-2. Honorque exhortor hamis renuente parsque status
-3. Abstinet sparsis
+To make sure I’m not held back by any ideas and nostalgia, I burned the essays, deleted the stories, tore the papers and threw them all out. There was enough information in the world, there are enough books in the world, and no idea or thought of mine is universally new. So instead of writing, I read. I watched movies. I travelled. I had to be empty, to fill my life with meaning and experiences.
 
-Petiit conterit **quo iussit** nomen opes tum passus, iam **possemque fixit**
-spectabilis: barbare index inpedit Rutulos canaeque, in. Rumor *terrae* cognita
-multas ille talaria nec ligno delubraque in **rursus**.
+I had to be light and free and live the truth of present instead of everything that has been.
+
+## Phase 3: Moral values
+
+It is overwhelming to write still, to think about a lived life and to remember myu past selves who seem like different people. In reality, they are all me, and yet, there is subtle feeling of existing over someone else, taking a life for a life. I lived and they, the past selves, died.
+
+Over the years, I found lesser ideas to hold on to and only two to live by: integrity and hope.
+
+The existence of my stories and the burning of it all, it was me trying to justify my present with past. It was present me fulling the promise or morals of past me. So now I don’t worry about living upto my promises, my moral values, my ideas of the world. Because they all constantly change.
+
+I fight less with the world, with myself, I make judgements more freely, I change my opinions and ideas easily, I accept the changing personal relations understandbly, I **let things be** than thinking about the dozen other versions of how they could be.
+
+Few years ago I judged hard my actions and words on whether I’m right or wrong and I tried hard not to judge others. It was a tough confusing period of time. Because no matter what, all I could see was I’m wrong in this way or that way and I’m trying to achieve this impossible amount of being on the right side of the morality of each person I met. 
+
+When push comes to shove, moral values are not much of value.
+
+Most people would outrage, become an extremist, binary, and all the common ground is lost. It made no sense until I remembered to **let things be**.
+
+We are humans and we are all of it: angry and kind and healthy and helpful and possessive and stupid and liars and violent and unhappy and hopeful and thoughtful and it’s all life. Until life exists, all of this will exist and there’s no universal right or wrong, only the moral values which help us, ourselves, get through the night to another day and to live a full life.
