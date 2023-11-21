@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Life is easeier with less moral values
+title:	Hello World!
 date:	2020-01-01
 author:	Chandresh
 description: The second post on this website.
