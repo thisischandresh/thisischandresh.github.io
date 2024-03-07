@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title:	Life is easier with less moral values
-date:	2023-11-20
+title:	I have this feeling
+date:	2024-03-08
 author:	Chandresh
 description:
-ogimage: less-moral-values.png
+ogimage: this-feeling.png
 
 ---
 
