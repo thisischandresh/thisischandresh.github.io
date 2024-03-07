@@ -9,40 +9,20 @@ ogimage: this-feeling.png
 
 ---
 
-## Existence
+I have this feeling that it will be okay but never in the present, never right now. The hope of it will be all okay is the only feeling to live with.
 
-As a child, we are all told to write a journal, by our friends, parents, a therapist, the internet, books.
+I have this feeling of happiness, of liking the songs that play on shuffle, of enjoying the sea, and looking at the beautiful people around me. Of everything everyone has been through to be here now, and to be by ourselves. Not okay, not content, just to be.
 
-So I wrote. I couldn’t write a journal because it felt tedious to think about a day and write in a certain pattern of how events occured so I wrote essays, poems, dreams, list of cafes, list of cuisines, list of books and movies, letters, and stories.
+I have this feeling of hate, of hating those who pushed my friends too far, who picked up a fight with me and I didn’t want to but I did. I fought and pushed and punched and yet didn’t utter a screaming word.
 
-I only read what I’d written while writing and I wrote with pen on paper, so there were no edits, no changing words or hiding mistakes. How the world worked before personal computers. I had to be honest instead of grammatically or politically correct, an added incentive being no one was watching, no one was reading. It was just me and the stories.
+I have this feeling of life flashing in front of me in a seat at the back of the bus travelling at 11 pm in the night, this feeling of life flashing in front of me in a seat in the middle of the bus travelling at 3 pm in the afternoon, this feeling of life flashing in front of me in the left side seat of an Uber travelling back home at 1 am in the night, this feeling of life flashing in front of me again and again and again and it’s the feeling of dying.
 
-## Erasure
+I’m not physically dying in any of these situations and when the feeling comes, I’m calm, I’m present, I let it go through me. I have this feeling of being able to do nothing about anything, of being a watcher, an audience to my own life.
 
-Like most people, my thoughts were faster than I could write and it got scary real quick. My feelings and ideas could not be contained and they overflowed, so the only way to get a handle on it was to stop. To stop writing, to stop thinking, to stop and lie down.
+Probably this is what a symptom of dissociation and derealization looks like and why would I care, why would anyone, this doesn’t hurt at all, not even a bit.
 
-Then the time came to read, to listen, to sit back and watch the big wide world.
+I have this feeling of crying—of almost crying when reading a book, when working, when cooking, when walking and writing. This feeling which fills the entire eyes and cries to be out and on a few fine days, it does.
 
-The more books and more authors I read, more places I travelled, more time I spent outdoors, the more people I met, the more insignicant all my written stories seemed. The world is full of experiences I cannot contain in words and there is little time to choose to either write a story or live one. And so the writing went to the bin, intentionally.
+It was the best of times, it was the worst of times.
 
-To make sure I’m not held back by any ideas and nostalgia, I burned the essays, deleted the stories, tore the papers and threw them all out. There was enough information in the world, there are enough books in the world, and no idea or thought of mine is universally new. So instead of writing, I read. I watched movies. I travelled. I had to be empty, to fill my life with meaning and experiences.
-
-I had to be light and free and live the truth of present instead of everything that has been.
-
-## Moral values
-
-It is overwhelming to write still, to think about a lived life and to remember my past selves who seem like different people. In reality, they are all me, and yet, there is subtle feeling of existing over someone else, taking a life for a life. I lived and they, the past selves, died.
-
-Over the years, I found lesser ideas to hold on to and only two to live by: integrity and hope.
-
-The existence of my stories and the burning of it all, it was me trying to justify my present with past. It was present me fulling the promise or morals of past me. So now I don’t worry about living upto my promises, my moral values, my ideas of the world. Because they all constantly change.
-
-I fight less with the world, with myself, I make judgements more freely, I change my opinions and ideas easily, I accept the changing personal relations understandbly, I **let things be** rather than thinking about the dozen other versions of how they could be.
-
-Few years ago I judged my actions and words a lot on whether I’m right or wrong and I tried hard not to judge others. It was a tough confusing period of time. Because no matter what, all I could see was I’m wrong in this way or that way and I’m trying to achieve this impossible reality of being on the right side of the morality of everyone around me. 
-
-When push comes to shove, moral values are not much of value.
-
-Most people would outrage, become an extremist, binary, and all that is common ground is burned. It made no sense until I remembered to **let things be**.
-
-We are humans and we are all of it: angry and kind and healthy and helpful and possessive and stupid and liars and violent and unhappy and hopeful and thoughtful and it’s all life. Until life exists, all of this will exist and there cannot be a universal right or wrong, only the moral values which help us, ourselves, get through this day to next and to live a full life.
+The feeling to feel good, to feel sad, to feel angry, to feel excited, nervous, hopeful, lost, the feeling of missing something—someone. I have these feelings as long as I live and I live for this: to feel.
