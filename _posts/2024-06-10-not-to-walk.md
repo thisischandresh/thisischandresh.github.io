@@ -5,7 +5,7 @@ title: Exercising the right not to walk
 date:	2024-03-07
 author:	Chandresh
 description:
-ogimage: this-feeling.png
+ogimage: not-to-walk.png
 
 ---
 
