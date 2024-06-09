@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title:	I have this feeling
-date:	2024-03-07
+title:	Exercising the right not to walk
+date:	2024-06-10
 author:	Chandresh
 description:
 ogimage: this-feeling.png
