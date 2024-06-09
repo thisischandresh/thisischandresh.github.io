@@ -35,8 +35,9 @@ When I was 23, I fell in love. When I was 25, I fell in love again. Probably som
 
 6 months ago, I met her again. I walked with her, without her, but mostly stood still. She is so much like when I met her earlier, simple, brilliant, full of life, and yet she could not be anyone else but herself, who she is now.
 
-[Chasing cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6)
-[To build a home](https://open.spotify.com/track/0TKSorDYf2hKGHgarbQ0sK)
-[Fix you](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q)
-[Home](https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR)
-[Young and beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9)
+——————————————————
+- [Chasing cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6)
+- [To build a home](https://open.spotify.com/track/0TKSorDYf2hKGHgarbQ0sK)
+- [Fix you](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q)
+- [Home](https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR)
+- [Young and beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9)
