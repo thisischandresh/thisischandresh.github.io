@@ -2,7 +2,7 @@
 
 layout: post
 title: Exercising the right not to walk
-date:	2024-06-20
+date:	2024-06-06
 author:	Chandresh
 description:
 ogimage: not-to-walk.png
