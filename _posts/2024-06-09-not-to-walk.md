@@ -19,7 +19,7 @@ On most days, I get through the uncomfortable feelings or any strong feeling by 
 
 I can feel my mind and body and feelings all settling down, like talking to each other and accommodating each other. I felt home. I felt home by being with myself. So I have shifted houses, moved away from friends, left lovers and familiar neighbourhoods, and no matter where I am, when I’m by myself, I always feel home.
 
-I met a person like me — in this aspect — before I knew all of this. She walked by herself, she felt so much herself, I have not seen any person before her who looked together in mind, body, and feelings.
+I met a person like me before I knew all of this. She walked by herself, she felt so much herself, I have not seen any person before her who looked together in mind, body, and feelings.
 
 None of this means or felt, that she is okay, or she accepts every part of her, or she doesn’t feel incomplete, or she has figured it all out.
 
@@ -33,7 +33,7 @@ If this feels like a love story, it felt like it to me too. Though there was no 
 
 When I was 23, I fell in love. When I was 25, I fell in love again. Probably some memories to reminisce about a different time.
 
-I'm 28 now and she's grown a decade and half younger. And right now, I only want to stand still.
+I'm 28 now, standing still, accomodating mind, body and feelings.
 
 ——————————————————
 - [Chasing cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6)
