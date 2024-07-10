@@ -31,7 +31,7 @@ When I was 22, I met her with a different face. She was still herself, even thou
 
 If this feels like a love story, it felt like it to me too. Though there was no love, there was no yearning, or a feeling. I learned this years later when I learned to understand emotions.
 
-When I was 23, I fell in love. When I was 25, I fell in love again. Probably some memories to reminisce about a different time.
+When I was 23, I fell in love. When I was 25, I fell in love again. Probably some memories to [reminisce](https://chandresh.xyz/tomorrow.html) about a different time.
 
 I'm 28 now, standing still, accomodating mind, body and feelings.
 
