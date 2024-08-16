@@ -7,10 +7,10 @@ ogimage: chandresh.png
 
 Hi, this is Chandresh. I live in Mumbai.
 
-I'm at my happiest around plants, cats, and the sea. My daily life is spent sitting idle on the terrace, reading, colouring, and watching F1. I'm currently building [Local Public](https://x.com/localpublicxyz) and [Shardeum](https://shardeum.org).
+I'm happiest around plants, cats, and the sea. My daily life is spent sitting idle in open spaces, reading, colouring, and watching F1. I'm currently working on [Local Public](https://x.com/localpublicxyz), [Shardeum](https://shardeum.org) and [IDriss](https://idriss.xyz).
 
 ## Contact
-  - DM me on [Twitter](https://x.com/thisischandresh) or [Warpcast](https://warpcast.com/thechandresh.eth)
+  - DM on [Twitter](https://x.com/thisischandresh) or [Warpcast](https://warpcast.com/chandresh.eth)
   - Send an onchain message on [chandresh.eth](https://etherscan.io/address/chandresh.eth)
 
 ## Past Work
