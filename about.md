@@ -7,7 +7,7 @@ ogimage: chandresh.png
 
 Hi, this is Chandresh. I live in Mumbai.
 
-I'm happiest around plants, cats, and the sea. My daily life is spent sitting idle in open spaces, reading, colouring, and watching F1. Working on [Local Public](https://x.com/localpublicxyz) and [IDRISS](https://idriss.xyz).
+I'm happiest around plants, cats, and the sea. My daily life is spent sitting idle in open spaces, reading, colouring, and watching F1.
 
 ## Contact
   - DM on [Twitter](https://x.com/thisischandresh) or [Warpcast](https://warpcast.com/chandresh.eth)
@@ -17,6 +17,8 @@ I'm happiest around plants, cats, and the sea. My daily life is spent sitting id
 I work best in small teams and semi-automonous environment.
 
 Usually seen working on Social Media. Behind the scenes, working on documentation, events, and design.
+  - IDRISS
+  - ETHMumbai
   - Shardeum
   - WazirX
   - Blowfish Digital
