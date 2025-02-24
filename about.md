@@ -14,7 +14,7 @@ I'm happiest around plants, cats, and the sea. My daily life is spent sitting id
   - Send an onchain message on [chandresh.eth](https://etherscan.io/address/chandresh.eth)
 
 ## Work
-I work best in small teams and semi-automonous environment.
+I work best in small teams and automonous environment.
 
 Usually seen working on Social Media. Behind the scenes, working on documentation, events, and design.
   - Gnosis
