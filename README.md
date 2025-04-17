@@ -1,1 +1,1 @@
-This is the personal website of Chandresh. Created from this template.
+This is a personal website of Chandresh. Created from this template.
