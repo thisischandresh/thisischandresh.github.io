@@ -7,7 +7,7 @@ ogimage: chandresh.png
 
 Hi, this is Chandresh. I live in Mumbai.
 
-I'm happiest around plants, cats, and the sea. My daily life is spent sitting idle in open spaces, reading, colouring, and watching F1.
+I'm happiest around cats, plants and the sea. My daily life is spent reading, walking, cooking, and watching F1.
 
 ## Contact
   - [X (Twitter)](https://x.com/thisischandresh)
@@ -16,7 +16,7 @@ I'm happiest around plants, cats, and the sea. My daily life is spent sitting id
 
 
 ## Work
-Marketing leader with 9 years of experience across blockchain technology and consumer brands. [Resume](https://chandresh.xyz/resume) | [Portfolio)](https://chandresh.xyz/portfolio)
+Marketing leader with 9 years of experience across blockchain technology and consumer brands. [Resume](https://chandresh.xyz/resume) | [Portfolio](https://chandresh.xyz/portfolio)
 
 I’ve built and run marketing functions end-to-end, from brand strategy and content systems to growth, GTM, and creative direction, at companies including:
   - ETHMumbai
