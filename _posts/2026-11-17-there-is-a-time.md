@@ -1,3 +1,14 @@
+---
+
+layout: post
+title: There is a time
+date:	2026-11-17
+author:	Chandresh
+description:
+ogimage: there-is-a-time.png
+
+---
+
 There is a time, a place, a person, a feeling  
 The time will pass  
 The place will be lost  
