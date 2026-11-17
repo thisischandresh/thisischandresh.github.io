@@ -31,7 +31,7 @@ There is a time, a lake, a brother, a fight
 The time never was  
 The lake doesn't exist  
 The brother is no more  
-The fight is lost  
+The fight has changed  
 
 There is a time, a place, a person, a feeling  
 The time is now  
