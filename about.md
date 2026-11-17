@@ -5,7 +5,7 @@ permalink: /about/
 ogimage: chandresh.png
 ---
 
-Hi, this is Chandresh. I live in Mumbai.
+Hi, this is Chandresh. I live in Goa.
 
 I'm happiest around cats, plants and the sea. My daily life is spent reading, walking, drinking chai, and watching F1.
 
@@ -16,7 +16,7 @@ I'm happiest around cats, plants and the sea. My daily life is spent reading, wa
 
 
 ## Work
-Marketing leader with 9 years of experience across tech and consumer brands.
+Marketing leader with 10 years of experience across tech and consumer brands.
 
 I’ve built and run marketing functions end-to-end, from brand strategy and content systems to growth, GTM, and creative direction, at companies including:
   - ETHMumbai
