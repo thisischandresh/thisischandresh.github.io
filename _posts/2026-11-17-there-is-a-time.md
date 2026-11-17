@@ -37,5 +37,5 @@ There is a time, a place, a person, a feeling
 The time is now  
 The place is here  
 The person is me  
-The feeling is alive  
-The life will change
+The feeling is in me  
+The life will be
