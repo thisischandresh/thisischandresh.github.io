@@ -12,8 +12,8 @@ I'm happiest around cats, plants and the sea. My daily life is spent reading, wa
 ## Contact
   - [X (Twitter)](https://x.com/thisischandresh)
   - [LinkedIn](https://www.linkedin.com/in/thisischandresh/)
+  - [Signal](https://signal.me/#eu/yjfaN75zWIndMpQ6LKx2LYaooaKvYUs2tgE2-mpMBcKc39BUhNdO7YsV3Zx94Dv7)
   - [Telegram](https://t.me/thisischandresh)
-
 
 ## Work
 Marketing leader with 10 years of experience across tech and consumer brands.
